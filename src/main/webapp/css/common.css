@@ -1,0 +1,13 @@
+/* .w{
+    width:1200px;
+    margin:0 auto;
+} */
+.page-footer {
+        margin: 20px auto 0;
+        height: 155px;
+        color: red;
+        line-height: 56px;
+        text-align: center;
+        font-weight: 700;
+        padding-top: 20px;
+    }
