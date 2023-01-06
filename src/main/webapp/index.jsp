@@ -440,14 +440,6 @@
                     <ul class="clearfix">
 
 
-                        <li class="pull-left">
-                            <a href="admission.jsp">
-                                <img src="images/app12.gif">
-                                <span>专业分数信息</span>
-                            </a>
-
-                        </li>
-
 
 
                         <li class="pull-left">
