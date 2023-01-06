@@ -354,12 +354,12 @@ font-weight: 600;
 }
 #indexAppBox .boxList:first-child {
     background-color: #fff;
-    height: 160px;
+    height: 150px;
     position: relative;
     margin-top: 10px;
 }
 #indexAppBox .boxList:nth-of-type(odd) .boxTit {
-    background-color: #199285;
+    background-color: red;
 }
 #indexAppBox .boxList .boxTit {
     height: 100%;
