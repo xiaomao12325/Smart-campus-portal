@@ -56,7 +56,7 @@
 <div class="header">
     <div class="w">
         <div class="logo">
-            <a href="index.jsp"><img src="images/logo.jpg" alt=""></a>
+            <a href="index.jsp"><img src="images/logo.png" alt=""></a>
         </div>
         <div class="search">
             <div class="searchk">

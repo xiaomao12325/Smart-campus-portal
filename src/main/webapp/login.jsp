@@ -21,7 +21,7 @@
 
 <body style="background: url(images/bg1.jpg)">
 <div class="logo">
-    <a href="https://www.cqupt.edu.cn"><img src="images/logo.jpg" alt=""></a>
+    <a href="https://www.cqupt.edu.cn"><img src="images/logo.png" alt=""></a>
 </div>
 <div class="motto">
     <a href="https://www.cqupt.edu.cn"><img src="images/motto.jpg" alt=""></a>

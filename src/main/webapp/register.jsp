@@ -20,7 +20,7 @@
 <body>
 <!-- header 头部模块制作 start-->
 <div class="header w">
-    <a href="index.html"><img src="images/logo.jpg" alt=""></a>
+    <a href="index.html"><img src="images/logo.png" alt=""></a>
 </div>
 <!-- header 头部模块制作 end-->
 
