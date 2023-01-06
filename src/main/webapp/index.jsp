@@ -266,7 +266,7 @@
             <div class="boxList clearfix">
                 <div class="boxTit pull-left">
                     <div class="tit">
-                        <h3>用户应用</h3>
+                        <h3 style="color:black;font-size:30px">用户应用</h3>
 
                     </div>
                 </div>
@@ -275,7 +275,7 @@
                         <li class="pull-left">
                             <a href="login.jsp">
                                 <img src="images/app4.gif">
-                                <span>用户登录</span>
+                                <span style="font-size:22px">用户登录</span>
                             </a>
 
                         </li>
@@ -285,7 +285,7 @@
                         <li class="pull-left">
                             <a href="<%=url%>">
                                 <img src="images/app8.gif">
-                                <span>个人信息</span>
+                                <span style="font-size:22px">个人信息</span>
                             </a>
 
                         </li>
@@ -295,7 +295,7 @@
                         <li class="pull-left">
                             <a href="<%=url%>">
                                 <img src="images/app3.gif">
-                                <span>成绩查询</span>
+                                <span style="font-size:22px">成绩查询</span>
                             </a>
 
                         </li>
@@ -305,7 +305,7 @@
                         <li class="pull-left">
                             <a href="<%=url%>">
                                 <img src="images/app1.gif">
-                                <span>考勤查询</span>
+                                <span style="font-size:22px">考勤查询</span>
                             </a>
                         </li>
 
@@ -314,35 +314,27 @@
                         <li class="pull-left">
                             <a href="http://www.aao.cdut.edu.cn/xlzx/jxrl.htm">
                                 <img src="images/app15.gif">
-                                <span>校历查询</span>
+                                <span style="font-size:22px">校历查询</span>
                             </a>
 
                         </li>
-
-
-
-
 
                         <li class="pull-left">
                             <a>
                                 <img src="images/app2.gif">
-                                <span>学生活动</span>
+                                <span style="font-size:22px">学生活动</span>
                             </a>
 
                         </li>
                     </ul>
-                    <a id="indexGetMore" href="#">MORE</a>
                 </div>
             </div>
-
-
-
 
 
             <div class="boxList clearfix">
                 <div class="boxTit pull-left">
                     <div class="tit">
-                        <h3>教务中心</h3>
+                        <h3 style="color:black;font-size:30px">教务中心</h3>
 
                     </div>
                 </div>
@@ -353,17 +345,7 @@
                         <li class="pull-left">
                             <a href="<%=url2%>">
                                 <img src="images/app9.gif">
-                                <span>课程管理</span>
-                            </a>
-
-                        </li>
-
-
-
-                        <li class="pull-left">
-                            <a href="<%=url2%>">
-                                <img src="images/app3.gif">
-                                <span>成绩管理</span>
+                                <span style="font-size:22px">课程管理</span>
                             </a>
 
                         </li>
@@ -374,7 +356,7 @@
 
                             <a href="<%=url2%>">
                                 <img src="images/app1.gif">
-                                <span>考勤管理</span>
+                                <span style="font-size:22px">考勤管理</span>
                             </a>
                         </li>
 
@@ -384,11 +366,10 @@
 
                             <a href="<%=url2%>">
                                 <img src="images/app5.gif">
-                                <span>班级管理</span>
+                                <span style="font-size:22px">班级管理</span>
                             </a>
                         </li>
                     </ul>
-                    <a id="indexGetMore" href="#">MORE</a>
                 </div>
             </div>
 
@@ -398,7 +379,7 @@
             <div class="boxList clearfix">
                 <div class="boxTit pull-left">
                     <div class="tit">
-                        <h3>学籍管理</h3>
+                        <h3 style="color:black;font-size:30px">学籍管理</h3>
 
                     </div>
                 </div>
@@ -409,7 +390,7 @@
                         <li class="pull-left">
                             <a href="<%=url%>">
                                 <img src="images/app10.gif">
-                                <span>学籍信息查询</span>
+                                <span style="font-size:22px">学籍信息查询</span>
                             </a>
 
                         </li>
@@ -419,10 +400,9 @@
                         <li class="pull-left">
                             <a href="<%=url2%>">
                             <img src="images/app11.gif">
-                            <span>异动管理</span>
+                            <span style="font-size:22px">异动管理</span>
                         </li>
                     </ul>
-                    <a id="indexGetMore" href="#">MORE</a>
                 </div>
             </div>
 
@@ -432,7 +412,7 @@
             <div class="boxList clearfix">
                 <div class="boxTit pull-left">
                     <div class="tit">
-                        <h3>校园资源</h3>
+                        <h3 style="color:black;font-size:30px">校园资源</h3>
 
                     </div>
                 </div>
@@ -440,19 +420,27 @@
                     <ul class="clearfix">
 
 
+                        <li class="pull-left">
+                            <a href="admission.jsp">
+                                <img src="images/app12.gif">
+                                <span style="font-size:22px">专业分数信息</span>
+                            </a>
+
+                        </li>
+
 
 
                         <li class="pull-left">
                             <a href="magazine.jsp">
                                 <img src="images/app16.gif">
-                                <span>周刊专栏</span>
+                                <span style="font-size:22px">周刊专栏</span>
                             </a>
 
                         </li>
                         <li class="pull-left">
                             <a href="https://www.720yun.com/t/69722wOdata?scene_id=302686">
                                 <img src="images/app7.gif">
-                                <span>VR校园</span>
+                                <span style="font-size:22px">VR校园</span>
                             </a>
 
                         </li>
@@ -463,12 +451,12 @@
                         <li class="pull-left">
                             <a href="books.jsp">
                                 <img src="images/app14.gif">
-                                <span>电子图书资源</span>
+                                <span style="font-size:22px">电子图书资源</span>
                             </a>
 
                         </li>
                     </ul>
-                    <a id="indexGetMore" href="#">MORE</a>
+                    
                 </div>
             </div>
 
