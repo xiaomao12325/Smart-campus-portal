@@ -1,5 +1,3 @@
-<%-- Created by IntelliJ IDEA. User: 白衣渡江丶吕蒙 Date: 2021/7/30 Time: 9:38 To change this template use File | Settings |
-    File Templates. --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html lang="zh-CN">
 
@@ -19,7 +17,7 @@
 </style>
 </head>
 
-<body style="background: url(images/bg1.jpg)">
+<body style="background: url(images/bg1.png)">
 <div class="logo">
     <a href="https://www.cqupt.edu.cn"><img src="images/logo.png" alt=""></a>
 </div>
@@ -55,17 +53,17 @@
 <footer class="page-footer">
     <div style="margin:0 auto;width:620px;">
         <div style="float:left;margin-top:10px;">
-                        <span>版权所有 | 重庆邮电大学 | 重庆市南岸区崇文路2号 | 400065 |
-                            渝ICP备：17002788号-1</span>
+                        <span>学校地址：成都市成华区二仙桥东三路1号
+                            邮政编码：610059</span>
             <div style="width:300px;margin:0 auto; padding:20px 0;">
                 <a target="_blank"
-                   href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50010802001309"
+                   href="http://www.beian.gov.cn"
                    style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
-                    <img src="images/beian.jpg" style="float:left;" />
+                    <img src="http://www.cdut.edu.cn/__local/4/10/9E/8C269E8B2F66953CB79274AE8B3_F872A3BD_8B3.png" style="float:left;" />
                     <p
                             style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#ff0000;">
-                        渝公网安备
-                        50010802001309号</p>
+                        蜀ICP备
+                        05026980号</p>
                 </a>
             </div>
         </div>
@@ -86,7 +84,7 @@
         clearInterval(timmer);
         timmer = setInterval(function () {
             var randomInt = getRandomInt(0, 3)
-            document.body.style.background = "url(images/bg" + randomInt + ".jpg) no-repeat"
+            document.body.style.background = "url(images/bg" + randomInt + ".png) no-repeat"
         }, 3500)
     }
     function getRandomInt(min, max) {
