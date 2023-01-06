@@ -30,11 +30,11 @@
                     String Id=(String)session.getAttribute("Id");
                     String url=null;
                     String url2=null;
-                    if(Id.startsWith("s")){
+                    if(Pattern.matches("^s.*",Id)){
                         url="PCenter.jsp";
                         url2="#";
                     }
-                    if(Id.startsWith("t")){
+                    if(Pattern.matches("^t.*",Id)){
                         url="PCenter2.jsp";
                         url2="PCenter2.jsp";
                     }
@@ -52,7 +52,7 @@
 <div class="header">
     <div class="w2">
         <a href="index.jsp">
-            <div class="logo"><img src="images/logo_red.png" width="1200" height="120" alt=""></div>
+            <div class="logo"><img src="images/logo.png" width="1200" height="120" alt=""></div>
         </a>
          
     </div>
