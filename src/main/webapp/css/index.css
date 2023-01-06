@@ -39,6 +39,7 @@ img{
 .w2 {
     width: 1200px;
     margin:4px auto 40px;
+    margin-bottom:1px;
 }
 .w1{
     width:1200px;
@@ -68,15 +69,9 @@ img{
     overflow:hidden;
     padding:17px 0;
     position: relative;
-    height: 80px;
+    height: 100px;
 }
-.logo{
-  float: left;
-  padding-top:5px;
-  width:330px;
-  height:70px;
 
-}
 .isearch{
   float: right;
   margin-top: 10px;
@@ -125,6 +120,13 @@ img{
 .content {
     position: relative;
 }
+.content1 {
+   
+    margin-top: 10px;
+    left: 20px;
+    height: 180px;
+    position: relative;
+}
 .content .pic a{
     position: absolute;
     width: 184px;
@@ -141,8 +143,15 @@ img{
 .info1 {
     width: 490px;
     position: absolute;
-    left: 710px;
+    left: 690px;
     height: 207px;
+}
+.info2 {
+    width: 580px;
+    position: absolute;
+    left: 600px;
+    height: 207px;
+
 }
 .info-box .title {
   height: 46px;
