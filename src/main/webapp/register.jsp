@@ -1,10 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: 白衣渡江丶吕蒙
-  Date: 2021/7/30
-  Time: 15:19
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
 <head>
@@ -103,11 +96,11 @@
                    </span>
             <div style="width:300px;margin:0 auto; padding:20px 0;">
                 <a target="_blank"
-                   href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50010802001309"
+                   href="https://beian.miit.gov.cn/#/Integrated/index"
                    style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
                     <img src="images/beian.jpg" style="float:left;" />
-                    <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:red;">蜀公网安备
-                        50010802001309号</p>
+                    <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:red;"> 
+                      蜀ICP备05026980号</p>
                 </a>
             </div>
         </div>
